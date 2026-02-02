@@ -39,7 +39,7 @@ We implemented a split-power design:
 ## 🚀 How to Run
 1.  Clone the repo:
     ```bash
-    git clone [https://github.com/hamzamir-uetp/ROBOT-VAC-CLEANER-DLD-Project-.git](https://github.com/hamzamir-uetp/ROBOT-VAC-CLEANER-DLD-Project-.git)
+    git clone [https://github.com/hashirali-pak/ROBOT-VAC-CLEANER-DLD-Project-.git](https://github.com/hashirali-pak/ROBOT-VAC-CLEANER-DLD-Project-.git)
     ```
 2.  Open `src/main.ino` in Arduino IDE.
 3.  Install the required library (`AFMotor`).
